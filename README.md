@@ -23,9 +23,9 @@ SP network : SP_topology.csv
 
 ### Codes ###
 
-Data preprocessing used to generate adjacency matrices: DataProcess_TruthDiscovery.py
+**Data preprocessing** used to generate adjacency matrices: DataProcess_TruthDiscovery.py
 
-Deep Truth Discovery code for three datasets: 
+**Deep Truth Discovery code** for three datasets: 
 
 **CF**: python DTD_CF.py
 
