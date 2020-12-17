@@ -1,4 +1,8 @@
-## Code of our manuscript "An Unsupervised Bayesian Neural Network for Truth Discovery in Social Networks".##
+## ART for Truth Discovery ##
+
+This is a TensorFlow implementation of our manuscript:
+
+An Unsupervised Bayesian Neural Network for Truth Discovery in Social Networks
 
 ### DataSets ###
 
@@ -13,6 +17,7 @@ CF agent observations :  CF.csv
 CF network : CF_topology.csv
 
 **SP**
+
 SP agent observations :  SP.csv
 SP network : SP_topology.csv
 
@@ -20,7 +25,7 @@ SP network : SP_topology.csv
 
 Data preprocessing used to generate adjacency matrices: DataProcess_TruthDiscovery.py
 
-Deep Truth Discovery codes for three datasets: 
+Deep Truth Discovery code for three datasets: 
 
 **CF**: python DTD_CF.py
 
